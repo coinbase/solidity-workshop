@@ -16,7 +16,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "blockchain": "ganache-cli"
+    "blockchain": "ganache-cli",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate"
   },
   "devDependencies": {
     "prettier": "^1.14.3"
