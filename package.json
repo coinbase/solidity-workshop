@@ -18,6 +18,7 @@
     "eject": "react-scripts eject",
     "blockchain": "ganache-cli",
     "compile": "truffle compile",
+    "console": "truffle console",
     "migrate": "truffle migrate"
   },
   "devDependencies": {
